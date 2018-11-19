@@ -1,0 +1,6 @@
+[user]
+	email = aaronbreault@gmail.com
+	name = Aaron Breault
+
+[diff]
+    tool = vimdiff
