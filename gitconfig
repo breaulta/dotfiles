@@ -4,3 +4,5 @@
 
 [diff]
     tool = vimdiff
+[core]
+	excludesfile = /Users/kawthuldrok/.gitignore_global
