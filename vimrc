@@ -1,7 +1,5 @@
-"set shiftwidth=4    "Indent by 4 spaces when using >>, <<, == etc.
-"set softtabstop=4   "Indent by 4 spaces when pressing <TAB>
-set noexpandtab
-set tabstop=4
+set noexpandtab "Forces the tab key to insert tabs.
+set tabstop=4 "Set the tabsize to 4
 
 
 syntax on
