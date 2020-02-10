@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/kawthuldrok/.vim'
 let g:netrw_dirhist_2='/Users/kawthuldrok/.vim/ftdetect'
 let g:netrw_dirhist_3='/Users/kawthuldrok/.vim'
 let g:netrw_dirhist_4='/Users/kawthuldrok'
+let g:netrw_dirhist_5='/Users/kawthuldrok/sw/work_with_len/update_lens_bitcoin_validator'
